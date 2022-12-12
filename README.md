@@ -7,8 +7,8 @@
 STATIC Websites
 - JAVASCRIPT HTML CSS
 - https://chigoox.github.io/Project1-Card-AD/
--https://chigoox.github.io/Project2-Simple-page1/
--https://chigoox.github.io/Project3-MeetWeb/
+- https://chigoox.github.io/Project2-Simple-page1/
+- https://chigoox.github.io/Project3-MeetWeb/
 
 REACT.JS CSS
 - https://chigoox.github.io/bussinesscard/
