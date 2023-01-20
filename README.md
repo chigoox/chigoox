@@ -4,9 +4,10 @@
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... :)
 
-React-Tailwind-CommerceJS-Firebase
-Void Cards-   [void](https://voidcard.netlify.app/)             Linktree like website with each user able to buy a card with and NFC Tag linking to their page
-Tribal Art -  [TribalArt](https://voidcard.netlify.app/)        Artist portfoilio and Store
+Projects
+  - React-Tailwind-CommerceJS-Firebase
+  - [Void Cards](https://voidcard.netlify.app/) Linktree like website with each user able to buy a card with and NFC Tag linking to their page
+  - [Tribal Art](https://voidcard.netlify.app/) Artist portfoilio and Store
 
 -----------------------------------------------------------
 Games
