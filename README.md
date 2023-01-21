@@ -6,7 +6,7 @@
 
 Projects
   - React-Tailwind-CommerceJS-Firebase
-  - [Void Cards](https://voidcard.netlify.app/) Linktree like website with each user able to buy a card with and NFC Tag linking to their page
+  - [Void Cards](https://voidcard.netlify.app/) Linktree like website. Each user is able to buy a card NFC Tag linking to their page.
   - [Tribal Art](https://voidcard.netlify.app/) Artist portfoilio and Store
 
 -----------------------------------------------------------
