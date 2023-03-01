@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chigoox
-- 👀 I’m interested in ... Coding & Game Dev
-- 🌱 I’m currently learning ...Bootstrap
+- 👀 I’m interested in ... Web & Game Dev
+- 🌱 I’m currently learning ...Angular, Express server, Typescript
 - 💞️ I’m looking to collaborate on ... Everything
 - 📫 How to reach me ... :)
 
