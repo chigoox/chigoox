@@ -5,9 +5,10 @@
 - 📫 How to reach me ... :)
 
 Projects
-  - React-Tailwind-CommerceJS-Firebase
-  - [Void Cards](https://voidcard.netlify.app/) Linktree like website. Each user is able to buy a card NFC Tag linking to their page.
-  - [Tribal Art](https://voidcard.netlify.app/) Artist portfoilio and Store
+  
+  - [Still The Dubb](https://stillthedubb.com/) E-commerce store with uber like delivery system with driver tracking.
+  - [iDigits](https://iinvesta.vercel.app/) Social Media/Banking (Instagram like social media with Cash app like money transfer between userr) website
+  - [My Portfolio](https://portfolio5th.netlify.app/) All other sites, apps, and games I've built over the years.
 
 -----------------------------------------------------------
 Games
